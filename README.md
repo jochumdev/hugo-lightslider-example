@@ -22,7 +22,7 @@ A lightweight responsive Content slider with carousel thumbnails navigation.
 
 A lightweight jQuery lightbox gallery for displaying image and video gallery.
 
-## Install/usage
+## Demo usage
 
 1. Follow this [quickstart](http://gohugo.io/overview/quickstart/) guide, if you don't have hugo yet.
 
@@ -50,6 +50,17 @@ A lightweight jQuery lightbox gallery for displaying image and video gallery.
 Its save to ignore the `Symbolic links not supported, skipping` errors on the output.
 
 Wasn't that easy?
+
+## For your site you need
+
+- The contents of the [/static](/static) folder (except `/static/content` of course).
+
+- The lightslider shortcode [layouts/shortcodes/lightslider.html](/layouts/shortcodes/lightslider.html), its well documented.
+
+- Your own [data/post/lightslider_example.json](data/post/lightslider_example.json), see lightSlider/lightGallery docs for the `settings`.
+
+- The .css includes [here](layouts/partials/header.html#L19).
+
 
 ## License
 
