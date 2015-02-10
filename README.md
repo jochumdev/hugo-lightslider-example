@@ -8,17 +8,17 @@ A generated version of this is available [here](http://hugo-lightslider.pc-dummy
 
 This repo contains an example which combines these 3 great tools.
 
-**Currently you need the hugo version from @SchumacherFM [SchumacherFM_SourceJSON](https://github.com/SchumacherFM/hugo/tree/SchumacherFM_SourceJSON)**
+**Currently you need the hugo version from [@SchumacherFM](https://github.com/SchumacherFM) [SchumacherFM_SourceJSON](https://github.com/SchumacherFM/hugo/tree/SchumacherFM_SourceJSON)**
 
-#### [Hugo](http://gohugo.io/) from @spf13
+#### [Hugo](http://gohugo.io/) from [@spf13](https://github.com/spf13)
 
 A new idea around making website creation simple again. Hugo flexibly works with many formats and is ideal for blogs, docs, portfolios and much more. Hugo’s speed fosters creativity and makes building a website fun again.
 
-#### [lightSlider](https://sachinchoolur.github.io/lightslider/) from @sachinchoolur
+#### [lightSlider](https://sachinchoolur.github.io/lightslider/) from [@sachinchoolur](https://github.com/sachinchoolur)
 
 A lightweight responsive Content slider with carousel thumbnails navigation.
 
-#### [lightGallery](https://sachinchoolur.github.io/lightGallery/) from @sachinchoolur
+#### [lightGallery](https://sachinchoolur.github.io/lightGallery/) from [@sachinchoolur](https://github.com/sachinchoolur)
 
 A lightweight jQuery lightbox gallery for displaying image and video gallery.
 
