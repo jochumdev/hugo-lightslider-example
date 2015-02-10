@@ -42,7 +42,7 @@ A lightweight jQuery lightbox gallery for displaying image and video gallery.
 
 3. Change into the newly created directory and run hugo:
 
-        cd hugo-lightgallery
+        cd hugo-lightslider-example
         hugo server -w -D -t purehugo
 
 4. Open [your-local-copy](http://localhost:1313) - yes it runs from your computer :)
