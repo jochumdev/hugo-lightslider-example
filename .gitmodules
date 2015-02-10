@@ -1,0 +1,9 @@
+[submodule "themes/purehugo"]
+	path = themes/purehugo
+	url = https://github.com/dplesca/purehugo
+[submodule "vendor/lightslider"]
+	path = vendor/lightslider
+	url = https://github.com/sachinchoolur/lightslider.git
+[submodule "vendor/lightgallery"]
+	path = vendor/lightgallery
+	url = https://github.com/sachinchoolur/lightGallery.git
