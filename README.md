@@ -8,7 +8,7 @@ A generated version of this is available [here](http://hugo-lightslider.pc-dummy
 
 This repo contains an example which combines these 3 great tools.
 
-**Currently you need the hugo version from [@SchumacherFM](https://github.com/SchumacherFM) [SchumacherFM_SourceJSON](https://github.com/SchumacherFM/hugo/tree/SchumacherFM_SourceJSON)**
+**Currently you need the hugo version from [@SchumacherFM](https://github.com/SchumacherFM) [dynamicPagesWithJsonCsv](https://github.com/SchumacherFM/hugo/tree/dynamicPagesWithJsonCsv)**
 
 #### [Hugo](http://gohugo.io/) from [@spf13](https://github.com/spf13)
 
@@ -32,7 +32,7 @@ A lightweight jQuery lightbox gallery for displaying image and video gallery.
         cd $GOPATH/src/github.com/spf13/hugo
         git remote add schumacherfm https://github.com/SchumacherFM/hugo.git
         git fetch schumacherfm
-        git checkout -b sourcejson schumacherfm/SchumacherFM_SourceJSON
+        git checkout -b sourcejson schumacherfm/dynamicPagesWithJsonCsv
         go get
         popd
 
