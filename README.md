@@ -35,8 +35,6 @@ A lightweight jQuery lightbox gallery for displaying image and video gallery.
 
 5. Open [your-local-copy](http://localhost:1313) - yes it runs from your computer :)
 
-Its save to ignore the `Symbolic links not supported, skipping` errors on the output.
-
 Wasn't that easy?
 
 ## For your site you need
