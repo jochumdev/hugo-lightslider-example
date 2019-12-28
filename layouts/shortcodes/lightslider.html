@@ -19,9 +19,9 @@ Example: {{/*
 */}}
 -->
 {{ if $.Get "includejs" }}
-        <script src="{{ $.Page.Site.BaseUrl }}/js/jquery.min.js"></script>
-        <script src="{{ $.Page.Site.BaseUrl }}/js/lightGallery.min.js"></script>
-        <script src="{{ $.Page.Site.BaseUrl }}/js/jquery.lightSlider.min.js"></script>
+        <script src="{{ $.Page.Site.BaseURL }}/js/jquery.min.js"></script>
+        <script src="{{ $.Page.Site.BaseURL }}/js/lightGallery.min.js"></script>
+        <script src="{{ $.Page.Site.BaseURL }}/js/jquery.lightSlider.min.js"></script>
 {{ end }}
 
 {{ with .Get "url" }}
@@ -29,7 +29,7 @@ Example: {{/*
     {{ with $.Get "name" }}
         {{ $name := . }}
         <ul id="{{ $name }}" class="cs-hidden">
-        {{ $data := getJson $url }}
+        {{ $data := getJSON $url }}
         {{ range $data.items }}
             {{ $item := . }}
             <li data-thumb="{{ $item.thumb }}" data-src="{{ $item.full }}">

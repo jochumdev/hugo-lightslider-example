@@ -8,17 +8,17 @@
     <title>{{ .Title }} &middot; {{ .Site.Title }}</title>
     <link href='//fonts.googleapis.com/css?family=Source+Sans+Pro:400,700|Oxygen:400,700' rel='stylesheet' type='text/css'>
     <link rel="stylesheet" href="http://yui.yahooapis.com/pure/0.5.0/pure-min.css">
-    {{ `<!--[if lte IE 8]><link rel="stylesheet" href="http://yui.yahooapis.com/pure/0.5.0/grids-responsive-old-ie-min.css"><![endif]-->` | safeHtml }}
-    {{ `<!--[if gt IE 8]><!--><link rel="stylesheet" href="http://yui.yahooapis.com/pure/0.5.0/grids-responsive-min.css"><!--<![endif]-->` | safeHtml }}
+    {{ `<!--[if lte IE 8]><link rel="stylesheet" href="http://yui.yahooapis.com/pure/0.5.0/grids-responsive-old-ie-min.css"><![endif]-->` | safeHTML }}
+    {{ `<!--[if gt IE 8]><!--><link rel="stylesheet" href="http://yui.yahooapis.com/pure/0.5.0/grids-responsive-min.css"><!--<![endif]-->` | safeHTML }}
 
-    {{ `<!--[if lte IE 8]><link rel="stylesheet" href="/css/layouts/blog-old-ie.css"><![endif]-->` | safeHtml }}
-    {{ `<!--[if gt IE 8]><!--><link rel="stylesheet" href="/css/blog.css"><!--<![endif]-->` | safeHtml }}
+    {{ `<!--[if lte IE 8]><link rel="stylesheet" href="/css/layouts/blog-old-ie.css"><![endif]-->` | safeHTML }}
+    {{ `<!--[if gt IE 8]><!--><link rel="stylesheet" href="/css/blog.css"><!--<![endif]-->` | safeHTML }}
 
     <link href="//netdna.bootstrapcdn.com/font-awesome/4.1.0/css/font-awesome.min.css" rel="stylesheet">
 
     <!-- start hugo lightslider -->
-    <link rel="stylesheet" type="text/css" href="{{ .Site.BaseUrl }}/css/lightGallery.css" />
-    <link rel="stylesheet" type="text/css" href="{{ .Site.BaseUrl }}/css/lightSlider.css" />
+    <link rel="stylesheet" type="text/css" href="{{ .Site.BaseURL }}/css/lightGallery.css" />
+    <link rel="stylesheet" type="text/css" href="{{ .Site.BaseURL }}/css/lightSlider.css" />
     <!-- end hugo lightslider -->
 </head>
 <body>
