@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>https://pcdummy.github.io/hugo-lightslider-example/</loc>
+    <lastmod>2015-02-10T00:00:00+01:00</lastmod>
+  </url><url>
+    <loc>https://pcdummy.github.io/hugo-lightslider-example/post/lightslider_example/</loc>
+    <lastmod>2015-02-10T00:00:00+01:00</lastmod>
+  </url><url>
+    <loc>https://pcdummy.github.io/hugo-lightslider-example/post/</loc>
+    <lastmod>2015-02-10T00:00:00+01:00</lastmod>
+  </url><url>
+    <loc>https://pcdummy.github.io/hugo-lightslider-example/categories/</loc>
+  </url><url>
+    <loc>https://pcdummy.github.io/hugo-lightslider-example/tags/</loc>
+  </url>
+</urlset>
