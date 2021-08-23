@@ -26,8 +26,8 @@ Example: {{/*
         {{ $data := getJSON $url }}
         {{ range $data.items }}
             {{ $item := . }}
-            <li data-thumb="{{ $item.thumb }}" data-src="{{ $item.full }}">
-                <img src="{{ $item.full }}" />
+            <li data-thumb='{{ $item.thumb | absURL }}' data-src='{{ $item.full | absURL }}'>
+                <img src='{{ $item.full | absURL }}' />
             </li>
         {{ end }}
         </ul>

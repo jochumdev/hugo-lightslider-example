@@ -2,7 +2,7 @@
 
 Hugo with lightSlider and lightGallery integration.
 
-A generated version of this is available [here](http://hugo-lightslider.pc-dummy.net).
+A generated version of this is available [on Github pages](https://pcdummy.github.io/hugo-lightslider-example/).
 
 ## Overview
 
