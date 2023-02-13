@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Lightslider example</title>
-    <link>https://pcdummy.github.io/hugo-lightslider-example/</link>
+    <link>https://jochumdev.github.io/hugo-lightslider-example/</link>
     <description>Recent content on Lightslider example</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 10 Feb 2015 00:00:00 +0100</lastBuildDate><atom:link href="https://pcdummy.github.io/hugo-lightslider-example/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 10 Feb 2015 00:00:00 +0100</lastBuildDate><atom:link href="https://jochumdev.github.io/hugo-lightslider-example/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Lightslider example</title>
-      <link>https://pcdummy.github.io/hugo-lightslider-example/post/lightslider_example/</link>
+      <link>https://jochumdev.github.io/hugo-lightslider-example/post/lightslider_example/</link>
       <pubDate>Tue, 10 Feb 2015 00:00:00 +0100</pubDate>
       
-      <guid>https://pcdummy.github.io/hugo-lightslider-example/post/lightslider_example/</guid>
+      <guid>https://jochumdev.github.io/hugo-lightslider-example/post/lightslider_example/</guid>
       <description>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.</description>
     </item>
     
